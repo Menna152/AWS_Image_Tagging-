@@ -1,1 +1,1 @@
-"# AWS_Image_Tagging-" 
+ AWS_Image_Tagging
